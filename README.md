@@ -17,4 +17,8 @@ It have two inputs (car sensors on North(N) and East(E) roads) and six outputs (
  ## Deployment 
 First of all Make a new project and add Startup.s file to your project or the startupfile provided by your tool for yours praticular processor Model. Now add .c file , .c file consists of main C code of your Machine now compile and debug your code using your Embedded Designing Tool. After Succesful Debugging Burn the code onto your Machine and your Prototype is ready to use
 
+## Video
+ [Simulation](https://www.youtube.com/watch?v=zHNMw0erDD4&list=PLmg5qlXcbaf9ngrt8nHffRMJF5z8Mb-8w&index=17)
+ 
+ [Hardware](https://www.youtube.com/watch?v=Yc7omlhZpj8&list=PLmg5qlXcbaf9ngrt8nHffRMJF5z8Mb-8w&index=16)
       
