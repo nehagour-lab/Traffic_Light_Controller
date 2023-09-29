@@ -1,4 +1,6 @@
 # Traffic_Light_Controller
+Objective: Design a replica of real-time traffic light controller to svoid the congestion at busy intersection. 
+
 ## Hardware  Used :
 1. TM4C123 Tiva C Series Launchpad.
 2. Resistors of 1.5k
